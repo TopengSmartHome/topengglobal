@@ -1,0 +1,5 @@
+Topeng Middle East Website V4
+1. Premium generated product/application images are loaded into the webpage.
+2. Product cards, preview modal, application blocks, and project/gallery backgrounds use optimized image assets.
+3. RFQ email form supports file attachment submission to tpchenzhilin@gmail.com through FormSubmit.
+4. WhatsApp RFQ includes selected file names and supports direct file sharing on compatible mobile browsers.
