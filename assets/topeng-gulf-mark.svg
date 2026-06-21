@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Topeng architectural light mark">
+  <defs>
+    <linearGradient id="blue" x1="10" y1="52" x2="48" y2="10" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0757df"/>
+      <stop offset=".55" stop-color="#1785ff"/>
+      <stop offset="1" stop-color="#54c7ff"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="24" y1="48" x2="43" y2="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c98a28"/>
+      <stop offset=".52" stop-color="#ffd47b"/>
+      <stop offset="1" stop-color="#fff0bd"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 4 55 19v35H9V19L32 4Z" fill="#071a3b" stroke="url(#blue)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M18 49V28C18 20.7 24.3 14 32 11c7.7 3 14 9.7 14 17v21H18Z" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M32 14v34M23 24l6 24M41 24l-6 24" fill="none" stroke="url(#blue)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M15 50h34" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="11" r="2.4" fill="#ffe49a"/>
+</svg>

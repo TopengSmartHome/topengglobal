@@ -1,0 +1,13 @@
+{
+  "name": "Topeng Lighting Middle East",
+  "short_name": "Topeng Lighting",
+  "description": "Architectural LED lighting solutions for Middle East projects.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050b13",
+  "theme_color": "#050b13",
+  "icons": [
+    {"src": "/assets/topeng-logo.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
+

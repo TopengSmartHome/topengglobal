@@ -1,0 +1,32 @@
+# Topeng Lighting Middle East — full company and product context
+
+Topeng Lighting supplies project-grade architectural LED fixtures and preliminary lighting-system proposals for hotels, towers, bridges, malls, resorts, waterfronts, landscapes and city nightscape projects. The website is intended for consultants, lighting designers, developers, EPC contractors and project buyers.
+
+## Capabilities
+
+- Architectural facade lighting using wall washers, linear lights, floodlights and water-ripple projectors.
+- DMX512 and RGBW dynamic control concepts for landmark projects.
+- Landscape, inground and underwater lighting for hospitality and public-realm applications.
+- Preliminary fixture selection based on dimensions, mounting height, throw distance, target effect and control requirement.
+- RFQ review using elevation drawings, CAD, BOQ, reference images and project location.
+
+## Middle East specification considerations
+
+For Gulf outdoor projects, verify ambient temperature, ingress protection, corrosion resistance, UV exposure, dust, humidity, surge protection, cable routing, driver placement, optics, service access and applicable local electrical requirements. Product suitability must be confirmed against the final project design.
+
+## Product catalogue
+
+1. YY-SWD-001 Linear Water Ripple Light — 36W / 80W, ON/OFF or DMX512, DC24V / AC220V, IP66. Used for facades, bridges, landmark walls and waterfront nightscape.
+2. YY-XQD-3828 Slim Linear Wall Washer — 18W / 24W / 36W, ON/OFF or DMX512, DC24V / AC220V, IP66. Used for hotels, towers, malls and linear facade grazing.
+3. YY-XTD-2831 Ultra-Slim Linear Light — 12W, ON/OFF or DMX512, DC24V, IP65. Used for building outlines, media facades and concealed details.
+4. YY-TGD-LP600 Modular High-Power Floodlight — 100W–600W, ON/OFF or DMX512, AC85–268V, IP66. Used for towers, stadiums, bridges and long-throw illumination.
+5. YY-CDD-CB30 COB Landscape Spike Light — 3W–30W, ON/OFF, AC85–268V / DC24V, IP65. Used for trees, paths, sculptures and resort landscapes.
+6. YY-DMD-R304 304 Stainless Inground Light — 3W–36W, ON/OFF, AC85–268V / DC24V, IP67. Used for plazas, walkways, columns and public-realm accents.
+7. YY-SDD-S304 304 Stainless Underwater Light — 6W / 18W / 24W, ON/OFF, 12V / 24V, IP68. Used for pools, fountains, water features and waterfront projects.
+
+## Contact
+
+Email: tpchenzhilin@gmail.com
+WhatsApp: +86 173 0230 3755
+Supported presentation languages: English and Arabic.
+
